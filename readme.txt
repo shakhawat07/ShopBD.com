@@ -1,0 +1,1 @@
+Open project in Microsoft Visual Studio and choose "ShopBD.com" folder and then run the project.
